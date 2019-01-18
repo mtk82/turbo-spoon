@@ -1,0 +1,13 @@
+package com.example.myapplication;
+import android.os.Bundle
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.android.material.snackbar.Snackbar;
+
+public class Scrolling Activity extends AppCompatActivity {
+
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(saveInstanceState);
+    setContentView(R.layout.activity_scrolling);
+    Toolbar toolbar = (Toolbar) findViewByID(R.id.toolbar);
+    setSupportActionBar(toolbar);
