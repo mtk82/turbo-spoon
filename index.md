@@ -1,4 +1,4 @@
-## Welcome to turbo-spoon [:baby_chick:]
+## Welcome to turbo-spoon :baby_chick:
 
 You can use the [editor on GitHub](https://github.com/mtk82/turbo-spoon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
