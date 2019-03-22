@@ -1,4 +1,14 @@
 <!DOCTYPE html>
-<head><title></title></head>
-<body></body>
+<!--My Blog-->
+<head>
+  <title>Blog Title</title>
+  <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+</head>
+  <body>
+  <!--javascript-->
+  <script>
+   document.write("<h3>Hello World this is Javascript inside of HTML code!</h3>");
+  </script>
+
+  </body>
 </html>
