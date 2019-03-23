@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<!--My Blog-->
-<head>
-  <title>Blog Title</title>
-  <!--Always link CSS in HTML5-->
-  <link href="<link href="https://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet">">
-</head>
-  <body>
-  <!--javascript-->
-  <script>
-   document.write("<h3>Hello World this is Javascript inside of HTML code!</h3>");
-  </script>
- </body>
-</html>
 
 
 <!-- Completed page code below -->
